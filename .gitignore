@@ -1,0 +1,11 @@
+brute
+encrypt
+decrypt
+*.o
+*~
+*.exe
+*.user
+*.iobj
+*.ipdb
+*.pdb
+.vs/
